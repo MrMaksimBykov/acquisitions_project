@@ -1,0 +1,7 @@
+pandas
+pandas-datareader
+yfinance
+xlrd
+xlsxwriter
+openpyxl
+seaborn
